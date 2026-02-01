@@ -11,4 +11,4 @@ To get data exported to CSV, change csv export to exporter.csv.export = true in 
 to get CSV output with header exporter.csv.append_mode = false
 to get CSV output without header exporter.csv.append_mode = ture
 
-also can turn off JSON output by changing fhir export to exporter.fhir.export = false.
+Also can turn off JSON output by changing fhir export to exporter.fhir.export = false.
